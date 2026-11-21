@@ -1,1 +1,1 @@
-# GEN-AI-2
+# GenAI
